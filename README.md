@@ -7,6 +7,9 @@
 ✅ Bootstrap plugin <br>
 ✅ Fontawesome <br>
 ✅ DataTables w/ customized api <br>
+✅ Registration Page <br>
+✅ Authentication Page
+
 
 <br><br>
 __NOTE: make sure the AdminLTE version 3.2.0 is already downloaded__ <br>
