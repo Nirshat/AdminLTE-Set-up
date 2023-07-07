@@ -4,7 +4,9 @@
 ✅ Sidebar <br>
 ✅ Navbar <br>
 ✅ Footer <br>
-✅ Bootstrap plugin
+✅ Bootstrap plugin <br>
+✅ Fontawesome <br>
+✅ DataTables w/ customized api <br>
 
 <br><br>
 __NOTE: make sure the AdminLTE version 3.2.0 is already downloaded__ <br>
