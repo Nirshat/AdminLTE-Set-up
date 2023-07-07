@@ -1,4 +1,4 @@
-### This is my AdminLTE template personal customizesd set up for admin page.
+### This is my AdminLTE template personalized set up for admin page.
 <br>
 
 ✅ Sidebar <br>
