@@ -8,8 +8,9 @@
 ✅ Fontawesome <br>
 ✅ DataTables w/ customized api <br>
 ✅ Registration Page <br>
-✅ Authentication Page
+✅ Authentication Page <br>
+✅ Dashboard <br>
 
 
-<br><br>
+<br>
 Copyright © 2014-2021 AdminLTE.io.
