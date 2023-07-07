@@ -12,5 +12,4 @@
 
 
 <br><br>
-__NOTE: make sure the AdminLTE version 3.2.0 is already downloaded__ <br>
 Copyright © 2014-2021 AdminLTE.io.
